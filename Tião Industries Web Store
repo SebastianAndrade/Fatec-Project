@@ -1,0 +1,36 @@
+<html>
+	<head>
+		
+		<title> Tião Industries</title>
+		<meta charset="utf-8"/>
+	</head>
+	<body style= "background-color: #502982;">
+		<h1> 
+		
+		<font color = "#F2c134">
+		<img src= "image/icones/logo-t.jpg" atlt="sebastian" width="80" height="75"/>IÃO INDUSTRIES</h1>
+		<img src= "image/icones/sebastian-perfil.jpg" atlt="sebastian" width="80" height="75"/>
+		
+		<font color="#d1c8c1">
+		<h2> O QUE É A TIÃO INDUSTRIES? </h2>
+		
+		<h4><font color="#F2c134">
+			 Nós representamos a proximidade dos games com os gamers. Oferecemos produtos de ótima qualidade 
+			 para todos aqueles que amam se divertir com vídeojogos.Investimos em parceiras com as melhores 
+			 empresas para oferecer os melhores proutos com os melhores preços. Se voçê deseja se inserir 
+			 neste mundo digital ou se aperfeiçoar nele, a Tião Industries é o caminho. <br/> Então o que está 
+			 esperando? dê o seu checkpoint aqui e monte o seu loadout favorito.
+		<h3>
+		<h3> Opções:</h3>
+	
+		<ul style= "background-color: #f180f8;">
+				
+				<li><a href="loja.html"> <img src= "image/icones/loja-logo.jpg" atlt="loja" width="15px" height="15px"/> Loja </a>
+
+				<li><a href="contato.html"> <img src= "image/icones/contato-logo.jpg" atlt="contato" width="15px" height="15px"/> Contato </a>
+				
+		</ul>
+
+	</body>
+<html/>
+		
